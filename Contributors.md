@@ -17,6 +17,7 @@
 - [enmanuelbayen] (https://github.com/enmanuelbayen)
 - [AbdullahBayraklilar] (https://github.com/abdullaheminb)
 - [MrWeast] (https://github.com/MrWeast)
+- [Chisom Catherine Dick] (https://github.com/catherine-chisom)
 - [TechBond7] (https://github.com/TechBond7)
 - [Mohamed Hamed] (https://github.com/mohameddhamed/)
 - [oliverpearce] (https://github.com/oliverpearce)
